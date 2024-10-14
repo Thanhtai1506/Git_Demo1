@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tai15\\OneDrive\\Desktop\\C\u002B\u002B\\Work\\Code\\Visual Studio 2022\\C\u002B\u002B\\Git_Demo1\\Git_Demo1\\Git_Demo1_Ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8AB99A-46E0-4672-9230-C9F163EB253C}|Git_Demo1_Ex.vcxproj|C:\\Users\\tai15\\OneDrive\\Desktop\\C\u002B\u002B\\Work\\Code\\Visual Studio 2022\\C\u002B\u002B\\Git_Demo1\\Git_Demo1\\Git_Demo1_Ex\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C8AB99A-46E0-4672-9230-C9F163EB253C}|Git_Demo1_Ex.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\tai15\\OneDrive\\Desktop\\C\u002B\u002B\\Work\\Code\\Visual Studio 2022\\C\u002B\u002B\\Git_Demo1\\Git_Demo1\\Git_Demo1_Ex\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\tai15\\OneDrive\\Desktop\\C\u002B\u002B\\Work\\Code\\Visual Studio 2022\\C\u002B\u002B\\Git_Demo1\\Git_Demo1\\Git_Demo1_Ex\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T00:51:50.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
